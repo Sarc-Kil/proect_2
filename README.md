@@ -16,9 +16,9 @@
 ## Скриншоты
 
    1. Окно входа
-https://github.com/Sarc-Kil/proect_2/blob/master/screnchot/Снимок2.PNG
+![](https://github.com/Sarc-Kil/proect_2/blob/master/screnchot/Снимок2.PNG)
    2. Окно входа(Ошибка ввода)
-
+![](https://github.com/Sarc-Kil/proect_2/blob/master/screnchot/Снимок2.1.PNG)
       
 ## Установка
 
